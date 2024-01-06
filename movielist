@@ -1,10 +1,11 @@
 {
 "data" : [
     {
-      "filmAdi": "Esaretin Bedeli",
-      "filmYil": "1991",
-      "filmPoster" : "https://m.media-amazon.com/images/I/51mexY90BcL._AC_UF894,1000_QL80_.jpg",
-      "filmThumb": "https://thumbsnap.com/i/2gMSy34b.mp4"
+      "filmAdi": "ESARETİN BEDELİ",
+      "filmYil": "1994",
+      "filmYonetmeni": "Frank Darabont",
+      "poster": "https://m.media-amazon.com/images/I/51mexY90BcL._AC_UF894,1000_QL80_.jpg",
+     "filmThumb": "https://thumbsnap.com/i/2gMSy34b.mp4"
     },
     {
       "filmAdi": "BATMAN",
