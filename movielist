@@ -15,9 +15,10 @@
       "filmThumb": "https://thumbsnap.com/i/ZVyWBePY.mp4"
     },
     {
-      "filmAdi": "Matrix",
+        "filmAdi": "Matrix",
       "filmYil": "1999",
-      "filmPoster" : "https://m.media-amazon.com/images/I/51sfSGMRx5L._AC_SY1000_.jpg",
+      "filmYonetmeni": "Christopher Nolan",
+      "poster": "https://m.media-amazon.com/images/I/51sfSGMRx5L._AC_SY1000_.jpg",
       "filmThumb": "https://thumbsnap.com/i/HghYfvjU.mp4"
     }
 ]
