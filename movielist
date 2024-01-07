@@ -1,28 +1,26 @@
-{
-"data" : [
+"data": [
     {
-      "filmAdi": "ESARETİN BEDELİ",
-      "filmYil": "1994",
-      "filmYonetmeni": "Frank Darabont",
-      "poster": "https://m.media-amazon.com/images/I/51mexY90BcL._AC_UF894,1000_QL80_.jpg",
-     "filmThumb": "https://thumbsnap.com/i/2gMSy34b.mp4",
-"filmSlayder:"https://thumbsnap.com/i/pWxfm4qW.jpg,https://thumbsnap.com/i/2jTbcSXL.jpg,https://thumbsnap.com/i/UCE9q5c2.jpg"
+        "filmAdi": "ESARETİN BEDELİ",
+        "filmYil": "1994",
+        "filmYonetmeni": "Frank Darabont",
+        "poster": "https://m.media-amazon.com/images/I/51mexY90BcL._AC_UF894,1000_QL80_.jpg",
+        "filmThumb": "https://thumbsnap.com/i/2gMSy34b.mp4",
+        "filmSlayder": ["https://thumbsnap.com/i/pWxfm4qW.jpg", "https://thumbsnap.com/i/2jTbcSXL.jpg", "https://thumbsnap.com/i/UCE9q5c2.jpg"]
     },
     {
-      "filmAdi": "The BATMAN",
-      "filmYil": "1972",
-      "filmYonetmeni": "Francis Ford Coppola",
-      "poster": "https://m.media-amazon.com/images/I/71l9Q9W4oPL._AC_SY879_.jpg",
-      "filmThumb": "https://thumbsnap.com/i/ZVyWBePY.mp4",
-"filmSlayder:"https://thumbsnap.com/i/pWxfm4qW.jpg,https://thumbsnap.com/i/2jTbcSXL.jpg,https://thumbsnap.com/i/UCE9q5c2.jpg"
+        "filmAdi": "The BATMAN",
+        "filmYil": "1972",
+        "filmYonetmeni": "Francis Ford Coppola",
+        "poster": "https://m.media-amazon.com/images/I/71l9Q9W4oPL._AC_SY879_.jpg",
+        "filmThumb": "https://thumbsnap.com/i/ZVyWBePY.mp4",
+        "filmSlayder": ["https://thumbsnap.com/i/pWxfm4qW.jpg", "https://thumbsnap.com/i/2jTbcSXL.jpg", "https://thumbsnap.com/i/UCE9q5c2.jpg"]
     },
     {
         "filmAdi": "Matrix",
-      "filmYil": "1999",
-      "filmYonetmeni": "Christopher Nolan",
-      "poster": "https://m.media-amazon.com/images/I/51sfSGMRx5L._AC_SY1000_.jpg",
-      "filmThumb": "https://thumbsnap.com/i/HghYfvjU.mp4",
-"filmSlayder:"https://thumbsnap.com/i/pWxfm4qW.jpg,https://thumbsnap.com/i/2jTbcSXL.jpg,https://thumbsnap.com/i/UCE9q5c2.jpg"
+        "filmYil": "1999",
+        "filmYonetmeni": "Christopher Nolan",
+        "poster": "https://m.media-amazon.com/images/I/51sfSGMRx5L._AC_SY1000_.jpg",
+        "filmThumb": "https://thumbsnap.com/i/HghYfvjU.mp4",
+        "filmSlayder": ["https://thumbsnap.com/i/pWxfm4qW.jpg", "https://thumbsnap.com/i/2jTbcSXL.jpg", "https://thumbsnap.com/i/UCE9q5c2.jpg"]
     }
 ]
-}
