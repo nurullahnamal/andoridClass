@@ -4,19 +4,31 @@
       "filmAdi": "ESARETİN BEDELİ",
       "filmYil": "1994",
       "filmYonetmeni": "Frank Darabont",
-      "poster": "https://m.media-amazon.com/images/I/51mexY90BcL._AC_UF894,1000_QL80_.jpg"
+      "poster": "https://m.media-amazon.com/images/I/51mexY90BcL._AC_UF894,1000_QL80_.jpg",
+     "filmThumb": "https://thumbsnap.com/i/2gMSy34b.mp4",
+      "filmAciklama":"1947 yılında başarılı bir bankacı olan Andy Dufrense aynı başarıyı evliliğinde gösterememektedir ve eşi tarafından başka bir erkekle aldatılmaktadır. Bunu kabullenemeyen Andy, eşinin aşığıyla buluştuğu bir gece alkolün de verdiği cesaretle silahına mermileri doldurur ve öfkeyle aracından iner. Eşi ve aşığının bulunduğu eve gidip onları belki de öldürecekken vazgeçer ve geriye döner. Fakat bu dönüş Andy'yi kurtaramaz. Aynı akşam eşi ve aşığı yataklarında mermi yağmuruna tutulmuşlardır. Olay yeri incelemelerinde Andy'nin ayak izlerine rastlayan polis, onu yargının eline teslim eder.",
+      "filmSlayder:"https://thumbsnap.com/i/pWxfm4qW.jpg,https://thumbsnap.com/i/2jTbcSXL.jpg,https://thumbsnap.com/i/UCE9q5c2.jpg",
+      "webSite":"https://tr.wikipedia.org/wiki/Esaretin_Bedeli"
     },
     {
       "filmAdi": "The BATMAN",
       "filmYil": "1972",
       "filmYonetmeni": "Francis Ford Coppola",
-      "poster": "https://m.media-amazon.com/images/I/71l9Q9W4oPL._AC_SY879_.jpg"
+      "poster": "https://m.media-amazon.com/images/I/71l9Q9W4oPL._AC_SY879_.jpg",
+      "filmThumb": "https://thumbsnap.com/i/ZVyWBePY.mp4",
+        "filmAciklama":"Filmin ilk sahnesinde genç Bruce Wayne ve Rachel Dawes'in Wayne Malikanesi'nin dışında koştukları görülür. Bruce, Rachel'ın elinde ne olduğunu merak eder ve ondan ne olduğunu göstermesi için rica eder. Rachel avucunu açar ve Bruce onun elindeki taşı alıp kaçmaya başlar. Ardından bir yere saklanıp, Rachel'ın onu aramasını izler. Bruce saklandığı yerden bir mağaraya düşer ve Rachel malikaneye yadım istemeye gider. Thomas Wayne oğlunu oradan kurtarır ve malikaneye götürür. Onunla ilgilendikten sonra yatağına yatırır ve oğluna, eşi Martha'ya aldığı kolyeyi gösterir. Bruce ve ailesi, oyuncuların yarasa olarak giyindikleri gösteriye gider. Yarasalardan rahatsız olan Bruce, babasına dışarı çıkmak istediğini söyler. Wayne ailesi gösteriyi terkedip dışarı çıkarlar. Onlar yürürken Joe Chill adlı hırsız onları soymaya kalkar. Hill tabancasını çekip, cüzdanları ve mücevherleri ister. Martha Wayne'in kolyesini almaya çalışan Chill panik yapar. Thomas Wayne, Martha'nın önüne atlar ve Chill panikle önce Thomas'ı sonra Martha'yı vurur ve kaçar. Thomas, Bruce'a korkmamasını söyler. Ardından polisler gelir. Thomas ve Martha Wayne'nin cenazesinden sonra William Earle, Bruce'a şirketin emin ellerde olduğunu söyler.",
+       "filmSlayder:"https://thumbsnap.com/i/pWxfm4qW.jpg,https://thumbsnap.com/i/2jTbcSXL.jpg,https://thumbsnap.com/i/UCE9q5c2.jpg",
+        "webSite":"https://tr.wikipedia.org/wiki/Batman_Ba%C5%9Fl%C4%B1yor"
     },
     {
       "filmAdi": "Matrix",
       "filmYil": "1999",
       "filmYonetmeni": "Christopher Nolan",
-      "poster": "https://m.media-amazon.com/images/I/51sfSGMRx5L._AC_SY1000_.jpg"
+      "poster": "https://m.media-amazon.com/images/I/51sfSGMRx5L._AC_SY1000_.jpg",
+      "filmThumb": "https://thumbsnap.com/i/HghYfvjU.mp4",
+      "filmAciklama":"Filmin ilk sahnesinde genç Bruce Wayne ve Rachel Dawes'in Wayne Malikanesi'nin dışında koştukları görülür. Bruce, Rachel'ın elinde ne olduğunu merak eder ve ondan ne olduğunu göstermesi için rica eder. Rachel avucunu açar ve Bruce onun elindeki taşı alıp kaçmaya başlar. Ardından bir yere saklanıp, Rachel'ın onu aramasını izler. Bruce saklandığı yerden bir mağaraya düşer ve Rachel malikaneye yadım istemeye gider. Thomas Wayne oğlunu oradan kurtarır ve malikaneye götürür. Onunla ilgilendikten sonra yatağına yatırır ve oğluna, eşi Martha'ya aldığı kolyeyi gösterir. Bruce ve ailesi, oyuncuların yarasa olarak giyindikleri gösteriye gider. Yarasalardan rahatsız olan Bruce, babasına dışarı çıkmak istediğini söyler. Wayne ailesi gösteriyi terkedip dışarı çıkarlar. Onlar yürürken Joe Chill adlı hırsız onları soymaya kalkar. Hill tabancasını çekip, cüzdanları ve mücevherleri ister. Martha Wayne'in kolyesini almaya çalışan Chill panik yapar. Thomas Wayne, Martha'nın önüne atlar ve Chill panikle önce Thomas'ı sonra Martha'yı vurur ve kaçar. Thomas, Bruce'a korkmamasını söyler. Ardından polisler gelir. Thomas ve Martha Wayne'nin cenazesinden sonra William Earle, Bruce'a şirketin emin ellerde olduğunu söyler.",
+       "filmSlayder:"https://thumbsnap.com/i/pWxfm4qW.jpg,https://thumbsnap.com/i/2jTbcSXL.jpg,https://thumbsnap.com/i/UCE9q5c2.jpg",
+       "webSite":"https://tr.wikipedia.org/wiki/Matrix_(film)"
     }
   ]
 }
