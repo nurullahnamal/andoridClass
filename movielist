@@ -6,6 +6,7 @@
             "filmYonetmeni": "Frank Darabont",
             "poster": "https://m.media-amazon.com/images/I/51mexY90BcL._AC_UF894,1000_QL80_.jpg",
             "videoUrl": "https://thumbsnap.com/i/2gMSy34b.mp4",
+            "webSite":"https://tr.wikipedia.org/wiki/Batman_(karakter)",
             "filmSlayder": [
                 "https://thumbsnap.com/i/pWxfm4qW.jpg",
                 "https://thumbsnap.com/i/2jTbcSXL.jpg",
@@ -13,11 +14,12 @@
             ]
         },
         {
-            "filmAdi": "The BATMAN",
+            "filmAdi": "THE BATMAN",
             "filmYil": "1972",
             "filmYonetmeni": "Francis Ford Coppola",
             "poster": "https://m.media-amazon.com/images/I/71l9Q9W4oPL._AC_SY879_.jpg",
             "videoUrl": "https://thumbsnap.com/i/ZVyWBePY.mp4",
+            "webSite":"https://tr.wikipedia.org/wiki/Batman_(karakter)",
             "filmSlayder": [
                 "https://thumbsnap.com/i/pWxfm4qW.jpg",
                 "https://thumbsnap.com/i/2jTbcSXL.jpg",
@@ -30,6 +32,7 @@
             "filmYonetmeni": "Christopher Nolan",
             "poster": "https://m.media-amazon.com/images/I/51sfSGMRx5L._AC_SY1000_.jpg",
             "videoUrl": "https://thumbsnap.com/i/HghYfvjU.mp4",
+            "webSite":"https://tr.wikipedia.org/wiki/Batman_(karakter)",
             "filmSlayder": [
                 "https://thumbsnap.com/i/pWxfm4qW.jpg",
                 "https://thumbsnap.com/i/2jTbcSXL.jpg",
