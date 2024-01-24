@@ -43,6 +43,21 @@
                 "https://thumbsnap.com/i/2jTbcSXL.jpg",
                 "https://thumbsnap.com/i/UCE9q5c2.jpg"
             ]
+        },
+        {
+            "filmAdi": "12 Öfkeli Adam",
+            "filmYil": "1957",
+            "filmYonetmeni": "Sidney Lumet",
+            "poster": "https://thumbsnap.com/i/LKAEEkED.png",
+            "videoUrl": "https://thumbsnap.com/i/HghYfvjU.mp4",
+            "webSite":"https://tr.wikipedia.org/wiki/Batman_(karakter)",
+            "Metin":"Matrix (özgün adı: The Matrix), Wachowski Kardeşlerin yazıp yönettiği bilimkurgu-aksiyon filmi. 1999 yılında gösterime girdi. Filmde Keanu Reeves,
+            Laurence Fishburne, Carrie-Anne Moss ve Hugo Weaving gibi yıldızlar yer almaktadır.",
+            "filmSlayder": [
+                "https://thumbsnap.com/i/pWxfm4qW.jpg",
+                "https://thumbsnap.com/i/2jTbcSXL.jpg",
+                "https://thumbsnap.com/i/UCE9q5c2.jpg"
+            ]
         }
     ]
 }
